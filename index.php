@@ -393,5 +393,5 @@ function _uw_build_time_string($time, $ampm){
   </form>
 </div>
 <div class="footer">
-Made by <a href="http://viktorstanchev.com"/>Viktor Stanchev</a>. See <a href="http://wattools.com"/>more tools</a>!
+Made by <a href="http://viktorstanchev.com"/>Viktor Stanchev</a>. See <a href="https://uwaterloo.xyz"/>more tools</a>!
 </div>
